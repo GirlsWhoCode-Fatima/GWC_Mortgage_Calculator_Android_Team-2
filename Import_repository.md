@@ -20,4 +20,21 @@
 6. **Begin Import:**
    - Click the `Begin import` button to start the import process. Wait until the process is complete.
 
+To add collaborators to your repository, follow these steps:
 
+1. **Open Your Repository:**
+   - Navigate to the repository where you want to add collaborators.
+
+2. **Go to Settings:**
+   - Click on the `Settings` tab located in the repository menu.
+
+3. **Manage Access:**
+   - In the left sidebar, click on `Manage access`.
+
+4. **Invite Collaborators:**
+   - Click on the `Invite a collaborator` button.
+   - Enter the GitHub username or email address of the person you want to invite.
+   - Choose their role (Admin, Write, or Read) from the dropdown menu.
+
+5. **Send Invitation:**
+   - Click the `Add` button to send the invitation. The invited collaborator will receive an email to accept the invitation.
