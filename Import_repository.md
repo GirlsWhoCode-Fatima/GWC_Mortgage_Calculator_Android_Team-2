@@ -31,7 +31,7 @@ To add collaborators to your repository, follow these steps:
    - Click on the `Settings` tab located in the repository menu.
 
 3. **Manage Access:**
-   - In the left sidebar, click on `Manage access`.
+   - In the left sidebar, click on `Access`.
 
 4. **Invite Collaborators:**
    - Click on the `Invite a collaborator` button.
@@ -40,3 +40,6 @@ To add collaborators to your repository, follow these steps:
 
 5. **Send Invitation:**
    - Click the `Add` button to send the invitation. The invited collaborator will receive an email to accept the invitation.
+
+6. **Accept Invitation**
+   - Make sure your collaborators accept their invitation!
