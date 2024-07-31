@@ -20,6 +20,8 @@
 6. **Begin Import:**
    - Click the `Begin import` button to start the import process. Wait until the process is complete.
 
+## Adding Collaborators
+
 To add collaborators to your repository, follow these steps:
 
 1. **Open Your Repository:**
